@@ -1,0 +1,30 @@
+{
+  "registry-mirrors": [
+    "https://registry.docker.ir",
+    "https://docker.manageit.ir",
+    "https://docker.arvancloud.ir",
+    "https://docker.mobinhost.com",
+    "https://docker.host:5000",
+    "https://docker.kernel.ir",
+    "https://docker-mirror.liara.ir",
+    "https://docker.iranserver.com",
+    "https://focker.ir",
+    "https://mirror-docker.runflare.com",
+    "https://mirror.cdn.ir",
+    "https://docker.jamko.ir",
+    "https://docker.haiocloud.com",
+    "https://docker.nrp.co",
+    "https://docker-mirror.kubarcloud.com",
+    "https://hub.megan.ir",
+    "https://docker.hyperclouds.ir",
+    "https://hub.atlantiscloud.ir",
+    "https://mirrors.pardisco.co",
+    "https://docker-mirror.kargadan.ir",
+    "http://docker.devneeds.ir/"
+  ],
+  "insecure-registries": [
+    "docker.arvancloud.ir",
+    "docker.mobinhost.com",
+    "hub.atlantiscloud.ir"
+  ]
+}
